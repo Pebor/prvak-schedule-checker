@@ -26,4 +26,3 @@ for i, id in enumerate(ids):
         stacked = cropped
 
 stacked.show()
-
